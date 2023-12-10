@@ -575,7 +575,7 @@ section {
 
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(24, 26, 27, 0.5);
   position: absolute;
   left: 0;
   right: 0;
@@ -707,10 +707,10 @@ section {
   justify-content: center;
   width: 54px;
   height: 54px;
-  background: #149ddd;
+  background: rgb(16, 126, 177);
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #149ddd;
+  border: 1px solid rgb(15, 119, 168);
 }
 
 .services .icon i {
@@ -735,7 +735,7 @@ section {
 }
 
 .services .title a {
-  color: #343a40;
+  color: rgb(195, 190, 182);
 }
 
 .services .title a:hover {
@@ -772,12 +772,12 @@ section {
   font-size: 18px;
   font-weight: bold;
   margin: 10px 0 5px 0;
-  color: #111;
+  color: rgb(221, 218, 214);
 }
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: #999;
+  color: rgb(168, 160, 149);
   margin: 0;
 }
 
@@ -804,7 +804,7 @@ section {
   font-style: italic;
   margin: 0 15px 15px 15px;
   padding: 20px;
-  background: #fff;
+  background: rgb(48, 52, 54);
   position: relative;
   margin-bottom: 35px;
   border-radius: 6px;
@@ -815,7 +815,7 @@ section {
   content: "";
   width: 0;
   height: 0;
-  border-top: 20px solid #fff;
+  border-top: 20px solid rgb(48, 52, 54);
   border-right: 20px solid transparent;
   border-left: 20px solid transparent;
   position: absolute;
@@ -849,18 +849,18 @@ section {
 
 .contact .info {
   padding: 30px;
-  background: #fff;
+  background: rgb(48, 52, 54);
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: rgb(54, 178, 237);
   float: left;
   width: 44px;
   height: 44px;
-  background: #dff3fc;
+  background: rgb(12 46 62);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -873,14 +873,14 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #050d18;
+  color: rgb(223, 220, 216);
 }
 
 .contact .info p {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #173b6c;
+  color: rgb(148, 192, 232);
 }
 
 .contact .info .email p {
@@ -921,7 +921,7 @@ section {
 .contact .php-email-form {
   width: 100%;
   padding: 30px;
-  background: #fff;
+  background: rgb(48, 52, 54);
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
